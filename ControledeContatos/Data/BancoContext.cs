@@ -1,4 +1,4 @@
-﻿using ControledeContatos.Models;
+﻿using ControleDeContatos.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace ControleDeContatos.Data
